@@ -117,7 +117,7 @@ GitHub Archive is a project to record the public GitHub timeline, archive it, an
 ###BillRun/system (7:star:)
 BillRun - Open Source Billing and Fraud System (https://github.com/BillRun/system)
 
-###twitter/finagle (2425:star:)
+###twitter/finagle (2426:star:)
 A fault tolerant, protocol-agnostic RPC system (https://github.com/twitter/finagle)
 
 ###survivingwithandroid/Surviving-with-android (180:star:)
@@ -264,7 +264,7 @@ Git resources for miiiCasa team members. (https://github.com/josephj/git)
 ###zendframework/zf2 (4608:star:)
 Official Zend Framework 2 git repository (https://github.com/zendframework/zf2)
 
-###gabrielecirulli/hn-special (120:star:)
+###gabrielecirulli/hn-special (121:star:)
 A modern theme for Hacker News, with some added niceties. (https://github.com/gabrielecirulli/hn-special)
 
 ###jceb/vim-orgmode (411:star:)
