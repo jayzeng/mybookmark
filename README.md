@@ -6,7 +6,7 @@ git-svn mirror of http://fbug.googlecode.com/svn/ (https://github.com/johan/fire
 ###luispedro/BuildingMachineLearningSystemsWithPython (718:star:)
 Source Code for the book Machine Learning Systems with Python (https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
-###playframework/playframework (4393:star:)
+###playframework/playframework (4394:star:)
 Play Framework (https://github.com/playframework/playframework)
 
 ###anvaka/VivaGraphJS (925:star:)
@@ -101,9 +101,6 @@ HHVM is a new open-source virtual machine designed for executing programs writte
 
 ###sebastianbergmann/phploc (463:star:)
 A tool for quickly measuring the size of a PHP project. (https://github.com/sebastianbergmann/phploc)
-
-###trentm/json (507:star:)
-A "json" command for massaging JSON on your Unix command line. (https://github.com/trentm/json)
 
 ###dataiap/dataiap (32:star:)
 data iap class repo (https://github.com/dataiap/dataiap)
@@ -354,8 +351,8 @@ TextMate is a graphical text editor for OS X 10.7+ (https://github.com/textmate/
 ###cloudera/flume (776:star:)
 WE HAVE MOVED to Apache Incubator. https://cwiki.apache.org/FLUME/ .   Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. The system is centrally managed and allows for intelligent dynamic management. It uses a simple extensible data model that allows for online analytic applications. (https://github.com/cloudera/flume)
 
-###uw-ext/UW-PHP-course (1:star:)
-UW PHP Course stuff (https://github.com/uw-ext/UW-PHP-course)
+###trentm/json (507:star:)
+A "json" command for massaging JSON on your Unix command line. (https://github.com/trentm/json)
 
 ###nieksand/imageFetcher (2:star:)
 socket.io awesomeness. (https://github.com/nieksand/imageFetcher)
