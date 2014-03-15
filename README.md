@@ -186,7 +186,7 @@ a tiny and smart cli player of douban.fm based on Node.js (https://github.com/tu
 ###weierophinney/vim-task (4:star:)
 vim task plugin (https://github.com/weierophinney/vim-task)
 
-###domnikl/DesignPatternsPHP (3535:star:)
+###domnikl/DesignPatternsPHP (3536:star:)
 sample code for several design patterns in PHP (https://github.com/domnikl/DesignPatternsPHP)
 
 ###slepp/pastebin.ca (15:star:)
@@ -279,13 +279,13 @@ A library for building richly interactive web applications. (https://github.com/
 ###CHH/php-build (314:star:)
 Builds PHP so that multiple versions can be used side by side. (https://github.com/CHH/php-build)
 
-###yeoman/generator-angular (1458:star:)
+###yeoman/generator-angular (1459:star:)
 Yeoman generator for AngularJS (https://github.com/yeoman/generator-angular)
 
 ###shichuan/javascript-patterns (5462:star:)
 JavaScript Patterns (https://github.com/shichuan/javascript-patterns)
 
-###papers-we-love/papers-we-love (4770:star:)
+###papers-we-love/papers-we-love (4771:star:)
 Papers from the computer science community to read and discuss. (https://github.com/papers-we-love/papers-we-love)
 
 ###Yelp/EMRio (23:star:)
@@ -414,7 +414,7 @@ REST API framework powered by Flask, MongoDB and good intentions (https://github
 ###cemoody/wizlang (59:star:)
 Amazing language representation (https://github.com/cemoody/wizlang)
 
-###popcorn-time/popcorn-app (4354:star:)
+###popcorn-time/popcorn-app (4355:star:)
 An experiment using the peerflix module of nodejs and connecting a bunch of APIs. (https://github.com/popcorn-time/popcorn-app)
 
 ###frapi/frapi (634:star:)
